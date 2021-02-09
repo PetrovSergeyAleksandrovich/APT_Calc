@@ -1,0 +1,3 @@
+C:/Users/Poizone/APT_Calc/cmake-build-debug/CMakeFiles/APT_Calc.dir
+C:/Users/Poizone/APT_Calc/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Poizone/APT_Calc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
